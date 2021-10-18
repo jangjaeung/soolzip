@@ -1,7 +1,36 @@
 # SOOL.zip 프로젝트
-## kh정보교육원 세미프로젝트로 java/SQL/HTML5/CSS/JavaScript/JQuery를 사용한 술에관한 정보공유 커뮤니티 사이트 입니다.
+kh정보교육원 세미프로젝트
+# 설계 및 구현기간
++ 기간 21/08/16 ~ 21/10/11
++ 발표 21/10/11
+# 목차
+1. 개발목적 및 목표<br>
+2. 개발환경<br>
+3. DB구조<br>
+4. 기능<br>
+5. 느낀점 및 배운것들<br>
 
-MyPage와 legendRecipe mainPage에 슬라이더를 맡았습니다<br>
-화면리뷰는 WebContent폴더 내에 README파일에 서술하고<br>
-코드리뷰는 src폴더 내에 README파일에 서술하겠습니다
+# 개발목적 및 목표
+**목적**<br>
++ 코로나 시국에 따른 혼술족이 많음에 따라 술을 좋아하는 애주가들이 소통과 자신만의 레시피도 공유할수 있는 사이트를 만들어보자! 해서 만들게 되었습니다
+**목표**<br>
++ 사용자가 레시피를 간단하게 올리고 쉽고 편하게 찾을수 있게하자
 
+# 개발환경
+**운영체제**
++ Window10
+
+**개발도구**
++ Eclipse
++ Visual Studio Code
+
+**사용기술**
++ Java
++ JSP/Servlet
++ JavaScript
++ OracleDB
++ HTML5/CSS
++ JQuery
+
+**버전관리 및 협업도구**
++ Git
