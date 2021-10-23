@@ -1,5 +1,7 @@
 # SOOL.zip 프로젝트
 kh정보교육원 세미프로젝트
+# 실행 화면 설명
+https://fierce-form-86b.notion.site/SOOL-zip-dce2c54213e24bf88bb9551e9ee4d9c5
 # 설계 및 구현기간
 + 기간 21/08/16 ~ 21/10/11
 + 발표 21/10/11
