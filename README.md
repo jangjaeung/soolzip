@@ -8,7 +8,7 @@ https://fierce-form-86b.notion.site/SOOL-zip-dce2c54213e24bf88bb9551e9ee4d9c5
 # 목차
 1. [개발목적 및 목표](#개발목적-및-목표)<br>
 2. [개발환경](#개발환경)<br>
-3. [DB구조](#DB 구조)<br>
+3. [DB구조](#DB구조)<br>
 4. [기능](#기능)<br>
 5. [느낀점 및 배운것들](#느낀점)<br>
 
@@ -37,7 +37,7 @@ https://fierce-form-86b.notion.site/SOOL-zip-dce2c54213e24bf88bb9551e9ee4d9c5
 **버전관리 및 협업도구**
 + Git https://github.com/jangjaeung/soolzip
 
-# DB 구조
+# DB구조
 ![erd](https://user-images.githubusercontent.com/90733948/137696131-5b836c4c-e374-4e93-8aa2-441be348b1d7.jpg)
 https://www.erdcloud.com/d/uPmxAyJdK3Xsbur9X
 
