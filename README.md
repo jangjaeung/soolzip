@@ -37,11 +37,11 @@ https://fierce-form-86b.notion.site/SOOL-zip-dce2c54213e24bf88bb9551e9ee4d9c5
 **버전관리 및 협업도구**
 + Git https://github.com/jangjaeung/soolzip
 
-**DB 구조**
+# DB 구조
 ![erd](https://user-images.githubusercontent.com/90733948/137696131-5b836c4c-e374-4e93-8aa2-441be348b1d7.jpg)
 https://www.erdcloud.com/d/uPmxAyJdK3Xsbur9X
 
-**기능**<br>
+# 기능
 **1. 회원가입 / 로그인**<br>
 -유효성 검사를 통해 무차별적인 가입을 방지하고 중복데이터를 방지하였습니다<br>
 **2.정보찾기**<br>
