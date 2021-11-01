@@ -8,7 +8,7 @@ https://fierce-form-86b.notion.site/SOOL-zip-dce2c54213e24bf88bb9551e9ee4d9c5
 # 목차
 1. [개발목적 및 목표](#개발목적-및-목표)<br>
 2. [개발환경](#개발환경)<br>
-3. [DB구조](#DB구조)<br>
+3. [DB구조](#DB 구조)<br>
 4. [기능](#기능)<br>
 5. [느낀점 및 배운것들](#느낀점)<br>
 
